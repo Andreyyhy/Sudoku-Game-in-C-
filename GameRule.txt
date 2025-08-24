@@ -1,2 +1,2 @@
 Украинский да/нет	Светлая тема да/нет	Легкая игра	Средняя игра	Тяжелая игра	Лимит ошибок	Продолжить игру да/нет
-True	True	True	False	False	True	True
+True	True	False	True	False	True	True
